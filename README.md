@@ -1,5 +1,5 @@
 # Xploititbrute
-##How to Use
+## How to Use
 
 python pulse.py [site] [username] [wordlist]
 
