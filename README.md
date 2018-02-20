@@ -1,6 +1,6 @@
 # Xploititbrute
 ## How to Use
 
-python pulse.py [site] [username] [wordlist]
+python xploititbrute.py [site] [username] [wordlist]
 
-python pulse.py Instagram/Facebook/Twitter username103 pass.lst
+python xploititbrute.py Instagram/Facebook/Twitter username103 pass.lst
