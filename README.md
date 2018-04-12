@@ -4,3 +4,5 @@
 python xploititbrute.py [site] [username] [wordlist]
 
 python xploititbrute.py Instagram/Facebook/Twitter username103 pass.lst
+
+Please share it with your friends.
